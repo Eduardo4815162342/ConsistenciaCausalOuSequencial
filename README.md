@@ -53,21 +53,21 @@ O projeto é organizado da seguinte forma:
    
    Clone este repositório para o seu ambiente local usando o comando:
    ```sh
-   git clone <URL_DO_REPOSITORIO>
+   git clone <https://github.com/Eduardo4815162342/ConsistenciaCausalOuSequencial>
    ```
 
 2. **Compilar o Projeto**:
    
    Navegue até o diretório raiz do projeto e compile o código-fonte com o seguinte comando:
    ```sh
-   javac consistencia/main/Main.java
+   javac main/Main.java
    ```
 
 3. **Executar o Projeto**:
    
    Execute o programa com o seguinte comando:
    ```sh
-   java consistencia.main.Main
+   java main.Main
    ```
 
 4. **Interagir com o Programa**:
